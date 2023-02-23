@@ -1,0 +1,26 @@
+#car {
+    display: inline-block;
+    width: 70px;
+    position: absolute;
+    left: 0px;
+    margin-top: 50px;
+}
+#car2 {
+    display: inline-block;
+    width: 70px;
+    position: absolute;
+    left: 0px;
+    margin-top: 90px;
+}
+.tree {
+    display: inline-block;
+    width: 40px;
+    position: absolute;
+    left: 25%;
+}
+#crashCounter{
+    font-size: 30px;
+}
+body{
+    background-color: antiquewhite;
+}
